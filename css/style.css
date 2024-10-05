@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: white
+}
+li{
+    list-style-type: hebrew;
+}
+
+
+div{
+    width: 200px;
+    height: 400px;
+    background-color: white;
+    color: crimson;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#monica-content-root{
+    display: none
+}
